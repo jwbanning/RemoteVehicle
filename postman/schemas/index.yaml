@@ -4,6 +4,7 @@ info:
   title: Vehicle Status ....hello world
   version: 1.0.0
   contact: {}
+  description: this is a desc
 servers:
   - url: "{{url}}"
 paths:
