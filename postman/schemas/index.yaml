@@ -4,7 +4,7 @@ info:
   title: Vehicle Status
   version: 1.0.0
   contact: {}
-  description: this is a desc
+  description: Updated the desc
 servers:
   - url: "{{url}}"
 paths:
